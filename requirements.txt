@@ -1,0 +1,4 @@
+dash==2.7.1
+pandas==1.5.2
+plotly==5.12.0
+xenaPython==1.0.14
