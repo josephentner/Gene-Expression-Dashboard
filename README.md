@@ -42,7 +42,7 @@ python3 app.py
 
 ![screenshot](img/screencap.png)
 
-## Resources
+## Resources/Acknowledgements
 
 * [Dash](https://dash.plot.ly/)
 * Style and structure inspired by [Dash Sample App](https://github.com/plotly/dash-sample-apps/tree/main/apps/dash-clinical-analytics)
