@@ -1,4 +1,4 @@
-# gene-expression-dashboard
+# Gene-Expression-Dashboard
 
 ## About this app
 
